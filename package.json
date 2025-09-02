@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^6.31.6",
+    "@kinde-oss/kinde-auth-nextjs": "^2.8.6",
     "@prisma/client": "^6.15.0",
     "@prisma/extension-accelerate": "^2.0.2",
     "@radix-ui/react-slot": "^1.2.3",
